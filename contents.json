@@ -1,0 +1,116 @@
+{
+   "content" : [
+      {
+         "path" : "animation_controllers/controller.animation.marker.json"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "entity/blaze.entity.json"
+      },
+      {
+         "path" : "entity/guardian.entity.json"
+      },
+      {
+         "path" : "entity/magma_cube.entity.json"
+      },
+      {
+         "path" : "entity/pillager.entity.json"
+      },
+      {
+         "path" : "entity/skeleton.entity.json"
+      },
+      {
+         "path" : "entity/witch.entity.json"
+      },
+      {
+         "path" : "entity/wither_skeleton.entity.json"
+      },
+      {
+         "path" : "entity/zombie_pigman.entity.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "particles/blaze_marker.json"
+      },
+      {
+         "path" : "particles/blaze_position_marker.json"
+      },
+      {
+         "path" : "particles/guardian_marker.json"
+      },
+      {
+         "path" : "particles/guardian_position_marker.json"
+      },
+      {
+         "path" : "particles/magma_cube_marker.json"
+      },
+      {
+         "path" : "particles/magma_cube_position_marker.json"
+      },
+      {
+         "path" : "particles/pillager_marker.json"
+      },
+      {
+         "path" : "particles/pillager_position_marker.json"
+      },
+      {
+         "path" : "particles/skeleton_marker.json"
+      },
+      {
+         "path" : "particles/skeleton_position_marker.json"
+      },
+      {
+         "path" : "particles/witch_marker.json"
+      },
+      {
+         "path" : "particles/witch_position_marker.json"
+      },
+      {
+         "path" : "particles/wither_skeleton_marker.json"
+      },
+      {
+         "path" : "particles/wither_skeleton_position_marker.json"
+      },
+      {
+         "path" : "particles/zombie_pigman_marker.json"
+      },
+      {
+         "path" : "particles/zombie_pigman_position_marker.json"
+      },
+      {
+         "path" : "textures/particle/blaze_marker.png"
+      },
+      {
+         "path" : "textures/particle/guardian_marker.png"
+      },
+      {
+         "path" : "textures/particle/magma_cube_marker.png"
+      },
+      {
+         "path" : "textures/particle/marker.png"
+      },
+      {
+         "path" : "textures/particle/pillager_marker.png"
+      },
+      {
+         "path" : "textures/particle/skeleton_marker.png"
+      },
+      {
+         "path" : "textures/particle/witch_marker.png"
+      },
+      {
+         "path" : "textures/particle/wither_skeleton_marker.png"
+      },
+      {
+         "path" : "textures/particle/zombie_pigman_marker.png"
+      }
+   ],
+   "version" : 1
+}

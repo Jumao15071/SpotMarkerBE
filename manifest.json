@@ -1,0 +1,18 @@
+{
+   "format_version" : 2,
+  "header": {
+    "name": "HSA Spot Marker v2.1",
+    "description": "§cNote: This is only a resource pack, designed to help locate HSA (Hard-Coded Spawn Area) spawn points. Be aware that: \n Outposts may spawn mobs naturally and be marked. \n Carefully verify marked positions before use.",
+    "uuid": "4a92b9df-2d17-4651-8d5d-2b58f1cc75df",
+    "version": [ 2, 1, 1 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+   "modules" : [
+    {
+      "description": "@Jumao",
+      "type": "resources",
+      "uuid": "9f1dbbaa-47fc-4d9f-a800-ab140df6fe50",
+      "version": [ 2, 1, 1 ]
+    }
+   ]
+}
